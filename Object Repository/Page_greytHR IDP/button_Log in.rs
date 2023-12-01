@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log in</name>
+   <tag></tag>
+   <elementGuidId>7d2cb8e9-020b-4213-bef0-78b73fcc0b79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mb-9.bg-primary.h-21.items-center.justify-center.text-white.flex.w-full.text-7gpx.font-body-semibold.rounded-gt-md-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e0716067-2746-4e33-9480-d7661229acff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>9cafd60e-674a-469b-a8b2-a63ab4afc8f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-9 bg-primary h-21 items-center justify-center text-white flex w-full text-7gpx font-body-semibold rounded-gt-md-3</value>
+      <webElementGuid>808398ac-6096-416d-ba76-029706b1034f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Log in </value>
+      <webElementGuid>1edd9b39-9581-49c9-88f2-90b5a0398663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/uas-portal[1]/div[@class=&quot;h-100 d-flex app w-100 overflow-hidden&quot;]/div[@class=&quot;container-fluid d-flex flex-column px-0&quot;]/main[@class=&quot;d-flex flex-grow-1 h-100 w-100 md:mt-0 sm:mt-55 mt-50&quot;]/div[@class=&quot;container-fluid align-self-center&quot;]/section[@class=&quot;row flex-nowrap min-h-section&quot;]/div[@class=&quot;article m-auto mt-0 sm:mt-auto sm:pl-15x sm:self-center md:pt-0&quot;]/o-auth[1]/section[@class=&quot;d-flex flex-grow-1 h-auto shadow-nx rounded-gt-md-7 p-12 w-fit-content&quot;]/div[@class=&quot;container-fluid align-self-center&quot;]/app-login[1]/section[@class=&quot;row login-container w-185 custom-login&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;animate-opacity&quot;]/div[@class=&quot;form-container w-full flex flex-col&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/button[@class=&quot;mb-9 bg-primary h-21 items-center justify-center text-white flex w-full text-7gpx font-body-semibold rounded-gt-md-3&quot;]</value>
+      <webElementGuid>d28e26a6-e320-4b2f-88f9-63c6f1f8682b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>8e3c8155-5598-45c4-b659-c29bd945c709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>62969c9d-1a2f-464b-9258-6c7ae5dae14c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Log in ' or . = ' Log in ')]</value>
+      <webElementGuid>a2564716-9ac6-4acd-8da0-6a7b9b87083c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

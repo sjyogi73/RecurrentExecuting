@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_image-gt-icon-logout w-2x h-2x</name>
+   <tag></tag>
+   <elementGuidId>76d4352a-d21f-47e6-b1ad-e93533c9ff89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.image-gt-icon-logout.w-2x.h-2x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>912a7e66-cd45-42a7-bc3c-c6599b916112</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>image-gt-icon-logout w-2x h-2x</value>
+      <webElementGuid>bd378b3b-0c42-4144-95c2-e5bbb553b357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mobile-view&quot;]/gt-topbar[@class=&quot;ng-star-inserted&quot;]/nav[@class=&quot;navbar bg-secondary-50 navbar-fixed-top ng-star-inserted&quot;]/div[@class=&quot;menu&quot;]/a[@class=&quot;icon-link&quot;]/div[@class=&quot;image-gt-icon-logout w-2x h-2x&quot;]</value>
+      <webElementGuid>3e382959-9fab-451d-8d23-96e7d213c06a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/div</value>
+      <webElementGuid>4b31a3c4-7d5e-40d6-a815-0547633f471d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
