@@ -6,15 +6,19 @@
    <elementGuidId>8ffd03de-a727-4219-aa98-bcc20cec958d</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>gt-button.hydrated</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//gt-button</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>gt-button.hydrated</value>
+         <key>BASIC</key>
+         <value>/html/body/app/ng-component/div/div/div[2]/div/ghr-home/div[2]/div/gt-home-dashboard/div/div[2]/gt-component-loader/gt-attendance-info/div/div/div[3]/gt-button[1][count(. | //*[@shade = 'primary']) = count(//*[@shade = 'primary'])]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>gt-button</value>
-      <webElementGuid>d510bf42-6d7f-47b7-b7c0-715ddf9d708f</webElementGuid>
+      <webElementGuid>8643a5b3-6478-4011-a6f9-66be589659c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>shade</name>
       <type>Main</type>
       <value>primary</value>
-      <webElementGuid>5641ff7d-7cae-4c9e-93fd-e900d1b71634</webElementGuid>
+      <webElementGuid>ab3d5513-9a31-4e88-913b-b0fe778b9d04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +42,15 @@
       <name>class</name>
       <type>Main</type>
       <value>hydrated</value>
-      <webElementGuid>0fbb13c7-e5da-47fc-9b91-d93f292027f5</webElementGuid>
+      <webElementGuid>1e1748a2-24d6-4864-b7d0-5ebe147ae873</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mobile-view&quot;]/div[@class=&quot;side-and-content&quot;]/div[@class=&quot;container-fluid app-container px-0&quot;]/div[@class=&quot;router-container pb-15 container-fluid&quot;]/ghr-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page page-home ng-star-inserted&quot;]/div[@class=&quot;home-dashboard&quot;]/gt-home-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;gt-home-dashboard mb-1.5x&quot;]/div[@class=&quot;gt-widget-wrapper bg-white rounded-m border-secondary-200 hover:shadow-lg ng-star-inserted&quot;]/gt-component-loader[1]/gt-attendance-info[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;p-1.5x h-18x widget-border bg-primary-50&quot;]/div[1]/div[@class=&quot;btn-container mt-3x flex flex-row-reverse justify-between ng-star-inserted&quot;]/gt-button[@class=&quot;hydrated&quot;]</value>
-      <webElementGuid>4e6b5393-f033-4a51-90b2-9f0aac47899d</webElementGuid>
+      <value>/html/body/app/ng-component/div/div/div[2]/div/ghr-home/div[2]/div/gt-home-dashboard/div/div[2]/gt-component-loader/gt-attendance-info/div/div/div[3]/gt-button[1]</value>
+      <webElementGuid>a53e8e36-21c6-4f3e-9f11-64ef70d56b39</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,6 +58,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//gt-button</value>
-      <webElementGuid>dcdc4f7d-019a-4f1a-90e5-0b5a370818c7</webElementGuid>
+      <webElementGuid>5df4617c-b394-4dfc-8973-a37f8fc0275e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
