@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>default</name>
+   <name>UserN</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://shloklabs-adroitpayroll.greythr.com/'</initValue>
+      <initValue>'https://shloklabs-adroitpayroll.greythr.com/\r\n'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'433'</initValue>
+      <initValue>'409'</initValue>
       <name>user</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'v2hNRcSmpQIGSBa9yU4OGA=='</initValue>
+      <initValue>'8jfQL89LO4psPomCwpcU2w=='</initValue>
       <name>password</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

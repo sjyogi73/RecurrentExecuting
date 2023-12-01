@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Signin</name>
+   <name>button_SignInOut</name>
    <tag></tag>
    <elementGuidId>8ffd03de-a727-4219-aa98-bcc20cec958d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>gt-button.hydrated</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//gt-button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>gt-button.hydrated</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
