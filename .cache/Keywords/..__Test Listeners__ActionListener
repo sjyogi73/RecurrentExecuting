@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "B35D63315B20EC698FF7B6E4FA8B9145",
+  "keywordFileContentHash": "CD3B6243268AA02810D0B31674B4AA47",
   "keywordClasses": [
     {
       "name": "ActionListener",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
