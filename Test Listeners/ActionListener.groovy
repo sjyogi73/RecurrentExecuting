@@ -17,7 +17,7 @@ class ActionListener {
     {
         def dayOfWeek = new Date().format("EEEE")
 
-        if (dayOfWeek in ["Saturday", "Tuesday"])
+        if (dayOfWeek in ["Saturday", "Sunday"])
         {
            // testCaseContext.skipThisTestCase()
             WebUI.comment('It is Weekend')
