@@ -4,9 +4,9 @@
    <name>My First Web UI Project</name>
    <tag></tag>
    <UUID>9cb1ca3a-c331-43fc-ba8a-6748f844d2b0</UUID>
-   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\git\testAutomation_Katalon\My First Web UI Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
