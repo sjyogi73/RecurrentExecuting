@@ -1,1 +1,1 @@
-# testAutomation_Katalon
+# Katalon Automation tool
