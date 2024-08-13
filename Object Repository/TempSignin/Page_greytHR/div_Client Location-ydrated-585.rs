@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Client Location-ydrated-585</name>
+   <tag></tag>
+   <elementGuidId>546876b6-d886-4069-a440-2bf2646fd947</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.min-width > div.dropdown.dropdown-margin > div.dropdown-container > div.dropdown-body > div.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e4f8f420-3d48-4b55-9b4e-18cf6cb051ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>08e10ccc-ad09-4e3f-bc62-12dba24b6f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Client Location</value>
+      <webElementGuid>70239bd5-6a45-434e-8d7e-dea0abae674c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;min-width&quot;]/div[@class=&quot;dropdown dropdown-margin&quot;]/div[@class=&quot;dropdown-container&quot;]/div[@class=&quot;dropdown-body&quot;]/div[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>47d46ade-17db-496d-b3fc-5cde748349aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/TempSignin/Page_greytHR/gt-dropdown_Tell us your work location_hydrated</value>
+      <webElementGuid>97f4369c-278b-478f-a577-d215a9b86423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>57925ede-9446-48eb-af19-479fc5927724</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>58757315-0fa4-4caf-b7d2-1f7c1eb659f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Client Location' or . = 'Client Location')]</value>
+      <webElementGuid>d7d9c35f-8ed4-4906-b08b-cdb5fec1297f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

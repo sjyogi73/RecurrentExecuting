@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>gt-dropdown_Tell us your work location_hydrated</name>
+   <tag></tag>
+   <elementGuidId>cc4e9476-f20d-43cf-a842-b4c17b00c0da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//gt-dropdown</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>gt-dropdown.hydrated</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>gt-dropdown</value>
+      <webElementGuid>8bc8b9f4-3576-4b0b-b786-d6a06f3a5a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>medium</value>
+      <webElementGuid>6218e662-6980-4b6a-ae8a-2428d2b775f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>mandatory</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9f5503ac-dabe-480c-bf08-cb88dbb46622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hydrated</value>
+      <webElementGuid>82fdcae0-8bcc-4693-8d85-f80f0d29658a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;ng-tns-0-1&quot;]/app[1]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;desktop-view&quot;]/div[@class=&quot;side-and-content&quot;]/div[@class=&quot;container-fluid app-container px-0&quot;]/div[@class=&quot;router-container pb-15 container-fluid&quot;]/ghr-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page page-home ng-star-inserted&quot;]/div[@class=&quot;home-dashboard&quot;]/gt-home-dashboard[@class=&quot;ng-star-inserted&quot;]/gt-popup-modal[@class=&quot;hydrated&quot;]/div[@class=&quot;body-content&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex flex-col flex-1 attendance-info&quot;]/div[@class=&quot;mb-3.5x ng-star-inserted&quot;]/gt-dropdown[@class=&quot;hydrated&quot;]</value>
+      <webElementGuid>93e6882b-7708-4b53-8364-c2687f3b92d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//gt-dropdown</value>
+      <webElementGuid>cfaa71ef-4d84-4ba3-bd8a-c5163cd5b151</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

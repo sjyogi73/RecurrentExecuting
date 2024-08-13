@@ -11,12 +11,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'433'</initValue>
+      <initValue>'491'</initValue>
       <name>user</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'v2hNRcSmpQIGSBa9yU4OGA=='</initValue>
       <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>false</initValue>
+      <name>isSkip</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
